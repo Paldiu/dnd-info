@@ -25,7 +25,7 @@ Vanguards are frontline fighters, masters of brute strength and martial prowess.
 | 16    | +5                | Ability Score Improvement                     | -     |  
 | 17    | +6                | Unyielding Fortress                           | -     |  
 | 18    | +6                | Warlord's Presence                            | -     |  
-| 19    | +6                | Mighty Sunder, Ability Score Improvement      | -     |  
+| 19    | +6                | Mighty Sunder                                 | -     |  
 | 20    | +6                | Avatar of War                                 | -     |  
 
 **Hit Points:**  
