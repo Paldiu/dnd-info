@@ -97,7 +97,3 @@ At 20th level, you achieve the pinnacle of diplomatic skill, wielding unparallel
 **Languages:** Common, and two additional languages of your choice  
 **Skills:** Choose four from Persuasion, Insight, Deception, Performance, History, Investigation  
 **Saving Throws:** Charisma, Wisdom
-
----
-
-This structure provides a balanced progression for the Diplomat class, ensuring a steady increase in diplomatic abilities and influence as they advance in levels.
