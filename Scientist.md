@@ -1,7 +1,3 @@
-Certainly! Here's the revised Scientist class with reduced features:
-
----
-
 **Scientist**
 
 **Details:** Scientists are masters of alchemy, wielding the power of chemical reactions and concoctions to achieve a variety of effects. Through careful experimentation and study, they unlock the secrets of nature and harness them for their own purposes. Scientists are adept at creating potions, poisons, and explosives, using their knowledge to support their allies or unleash devastation upon their foes.
